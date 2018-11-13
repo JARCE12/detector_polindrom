@@ -1,0 +1,2 @@
+# detector_polindrom
+detector_polindrom
